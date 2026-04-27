@@ -18,13 +18,6 @@ To identify top-performing product categories
 To determine best-selling products
 To understand overall sales distribution patterns
 
-🧰 Tools Used:
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Data Cleaning & Transformation
-Dashboard Design
-
 📊 Dashboard Features:
 📈 Monthly Sales Trend Analysis
 📦 Category-wise Sales Performance
